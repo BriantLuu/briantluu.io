@@ -19,6 +19,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             By{' '}
+            Briant
             <Image
               src="/vercel.svg"
               alt="Vercel Logo"
