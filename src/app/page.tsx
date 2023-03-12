@@ -19,7 +19,6 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             By{' '}
-            BriantLuu
             <Image
               src="/vercel.svg"
               alt="Vercel Logo"
